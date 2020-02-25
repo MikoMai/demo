@@ -13,6 +13,6 @@ public class HomeController {
 
     @RequestMapping(value = "/hello",method = {RequestMethod.POST,RequestMethod.GET})
     public String hello(){
-        return "Hello";
+        return "2222222222222";
     }
 }
